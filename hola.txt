@@ -4,12 +4,10 @@ Voy a volver a cambiar cosas
 vamos a probar esto en el area de staging
 vamos a hacer otra pruba de staging
 
-<<<<<<< HEAD
 Master 1
-
 Master 2
-=======
-Experimento 2       
+Master 2
 
 Experimento 1
->>>>>>> 5047578 (exp 1)
+
+Experimento 2
